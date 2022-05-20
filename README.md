@@ -1,4 +1,6 @@
 # auth_microservice
+Микросервис авторизации для проекта по СИПИ 
+
 
 # Запуск
 > docker-compose up -d
