@@ -8,6 +8,7 @@
 > 
 Далее в консоли:
 > cd app
+> 
 > alembic upgrade head
 > 
 Вы великолепны!
